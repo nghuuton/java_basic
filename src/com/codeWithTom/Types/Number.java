@@ -1,7 +1,7 @@
 package com.codeWithTom.Types;
 
 public class Number {
-    public static void main(String[] args) {
+    public static void main(StringT[] args) {
 
         // Integer
         byte number = 1; // (1byte)
