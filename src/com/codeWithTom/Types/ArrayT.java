@@ -15,7 +15,9 @@ public class ArrayT {
         System.out.println(Arrays.toString(numbers));
         System.out.println(Arrays.toString(someArr));
 
-        // Some Method of Array
-        
+        int[][] nums1 = new int[2][2];
+        System.out.println(Arrays.toString(nums1[0]));
+        int[][] nums2 = {{1, 2, 3, 4}, {5, 6, 7, 8}};
+        System.out.println(Arrays.toString(nums2[0]));
     }
 }
