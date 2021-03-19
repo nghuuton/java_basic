@@ -1,7 +1,7 @@
 package com.codeWithTom.Types;
 
 public class Number {
-    public static void main(StringT[] args) {
+    public static void main(String[] args) {
 
         // Integer
         byte number = 1; // (1byte)
@@ -19,6 +19,5 @@ public class Number {
         System.out.println(price);
         System.out.println(percent);
         System.out.println(numberL);
-
     }
 }
